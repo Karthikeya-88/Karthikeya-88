@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karthikeya-88
+- 👋 Hi, I’m Karthikeya Doosa
 - 👀 I’m interested in Full stack, Frontend and Backend Development
 - 🌱 I've learnt MERN stack in Nxtwave
 - 💞️ I’m looking to collaborate on various projects
