@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karthikeya Doosa
 - 👀 I’m interested in Full stack, Frontend and Backend Development
 - 🌱 I've learnt MERN stack in Nxtwave
-- 💞️ I’m looking to collaborate on various projects
+- 💞️ I’m looking forward to collaborate on various projects
 - 📫 How to reach me -- dkarthikeya888@gmail.com
 
 <!---
