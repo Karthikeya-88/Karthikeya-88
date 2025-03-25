@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karthikeya Doosa
 - 👀 I’m interested in Full stack, Frontend and Backend Development
 - 🌱 I've learnt MERN stack in Nxtwave
-- My portfolio: https://pf-eta-orcin.vercel.app/
+- My portfolio: https://portfolio-k4xr.vercel.app
 - 💞️ I’m looking forward to collaborate on various projects
 - 📫 How to reach me -- dkarthikeya888@gmail.com
 
